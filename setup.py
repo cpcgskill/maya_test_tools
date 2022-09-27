@@ -11,7 +11,7 @@ setuptools.setup(
     version="0.1.0",
     author="cpcgskill",
     author_email="cpcgskill@outlook.com",
-    description="maya 工具包",
+    description="maya 测试工具包",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/cpcgskill/maya_test_tools",
