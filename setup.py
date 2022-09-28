@@ -8,7 +8,7 @@ with open("README.md", "rb") as f:
 
 setuptools.setup(
     name="maya_test_tools",
-    version="0.1.0",
+    version="0.1.1",
     author="cpcgskill",
     author_email="cpcgskill@outlook.com",
     description="maya 测试工具包",
